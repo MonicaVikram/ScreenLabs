@@ -1,0 +1,1 @@
+export const login_type = 'login_type'
